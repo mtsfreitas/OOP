@@ -37,12 +37,17 @@ Escreva um programa Java que leia da entrada padrão números inteiros até enco
 Crie uma calculadora que funcione através da linha de comando. Ela deve receber comandos aritméticos, e após receber cada comando deve realizar o cálculo e exibir o resultado. Os comandos são no formato:
 
 MULTIPLICA A POR B
+
 DIVIDE A POR B
+
 SOMA A E B
+
 SUBTRAI A DE B
 
 Exemplo:
+
 MULTIPLICA 10 POR 2
+
 RESPOSTA: 20
 
 ## 12. 
@@ -52,9 +57,13 @@ Crie um jogo para o usuário descobrir um número sorteado de 1 a 100. A cada te
 Leia de um arquivo a relação de pacientes de uma clínica, cada um com o nome, o sexo, o peso, a idade e a altura. Escolha o formato do arquivo que achar mais adequado. Exiba um relatório contendo:
 
 i. a quantidade de pacientes.
+
 ii. a média de idade dos homens.
+
 iii. número de mulheres com altura entre 1,60 e 1,70 e peso acima de 70kg.
+
 iv. a quantidade de pessoas com idade entre 18 e 25.
+
 v. o nome do paciente mais velho e o nome da mulher mais baixa.
 
 ## 14. 
