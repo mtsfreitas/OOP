@@ -3,16 +3,8 @@
 ## 1. 
 Desenhe a seguinte pirâmide de asteriscos. O usuário determina a quantidade de linhas.
 
-*
-**
-***
-****
-*****
-******
-*******
-********
-*********
-…
+![image](https://github.com/mtsfreitas/OOP/assets/21324690/b93ffabc-2327-4f8f-95d3-31cd29c4cbb6)
+
 
 ## 2. 
 Determine qual é a idade que o usuário faz no ano atual. Para isso solicite o ano de nascimento do usuário e o ano atual.
